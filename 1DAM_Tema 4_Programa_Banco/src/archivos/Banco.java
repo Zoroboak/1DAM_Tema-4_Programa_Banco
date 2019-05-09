@@ -10,7 +10,7 @@ public class Banco {
 	//Metodo: pedirle datos al usuario
 	public static String getDato(String text,int parametro) {
 		/*
-		 * Parametro 1: Metodo devuelve un numero dado por el usuario
+		 * Parametro 1: Metodo devuelve un numero dado por el usuario 
 		 * en el rango [1-4], lo uso para la opción del menu
 		 * 
 		 * Parametro 2: Devuelve la siguiente palabra introducida por el usuario
